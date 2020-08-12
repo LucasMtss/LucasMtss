@@ -2,9 +2,17 @@
  
 # Welcome!
  
-## I'm SEU NOME AQUI!
- 
-… Insira suas descrições aqui!
+## I'm Lucas!
+  
+### Web Development
+
+### Acquirements
+
+1. React.js
+2. Node.js
+3. JavaScript
+4. HTML5
+5. CSS3
  
  
 ## About me 
