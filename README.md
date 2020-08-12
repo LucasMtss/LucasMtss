@@ -8,11 +8,11 @@
 
 ### Acquirements
 
-1. React.js
-2. Node.js
-3. JavaScript
-4. HTML5
-5. CSS3
+- React.js
+- Node.js
+- JavaScript
+- HTML5
+- CSS3
  
  
 ## About me 
