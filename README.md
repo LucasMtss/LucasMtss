@@ -1,8 +1,12 @@
-<img align="right" width="400" height="400" src="coloque_o_link_de_uma_foto_ou_gif_aqui">
+<img align="right" width="400" height="400" src="https://github.com/LucasMtss/LucasMtss/blob/master/FotoCurriculo.jpeg">
  
 # Welcome!
  
 ## I'm Lucas!
+
+I'm an Internet Systems student at the IFSMG Campus Barbacena, I'm 19 years old and I'm passionate about programming.
+
+Site made by me ==> https://potter-wiki.vercel.app/
   
 ### Web Development
 
