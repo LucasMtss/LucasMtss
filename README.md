@@ -1,4 +1,4 @@
-<img align="right" width="300" height="350" src="https://github.com/LucasMtss/LucasMtss/blob/master/FotoCurriculo.jpeg">
+
  
 # Welcome!
  
