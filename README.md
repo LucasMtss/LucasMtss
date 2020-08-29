@@ -13,7 +13,6 @@ Site made by me ==> https://potter-wiki.vercel.app/
 ### Acquirements
 
 - React.js
-- Node.js
 - JavaScript
 - HTML5
 - CSS3
