@@ -6,14 +6,14 @@
 
 I'm an Internet Systems student at the IFSMG Campus Barbacena, I'm 20 years old and I'm passionate about programming.
 
-Site made by me ==> https://potter-wiki.vercel.app/
   
-### Web Development
+### Web Development -- Front-end
 
 ### Acquirements
 
 - React.js
 - JavaScript
+- TypeScript
 - HTML5
 - CSS3
  
