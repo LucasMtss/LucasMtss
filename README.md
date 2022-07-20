@@ -4,7 +4,7 @@
  
 ## I'm Lucas!
 
-I'm an Internet Systems student at the IFSMG Campus Barbacena, I'm 20 years old and I'm passionate about programming.
+I'm an Internet Systems student at the IFSMG Campus Barbacena, I'm 21 years old and I'm passionate about programming.
 
   
 ### Web Development -- Front-end
